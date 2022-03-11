@@ -1,0 +1,4 @@
+The Macro F1 scores of the models: 
+byt5: 0.5051679707632479
+hatexplain: 0.42173632737124866
+dehatebert: 0.5384393483031032
