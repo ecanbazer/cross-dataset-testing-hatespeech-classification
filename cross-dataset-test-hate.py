@@ -4,6 +4,7 @@ import pandas as pd
 import csv
 from sklearn import metrics
 
+#create  dataframe
 df = pd.read_csv('dyn_data_test.csv', sep = '\t', doublequote=True, quotechar = "'")
 def lower_str(s):
 	return s.lower()
